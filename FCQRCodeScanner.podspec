@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary  = 'Simple QRcode Scanner(Apple API) & Generator'
   s.homepage = 'https://github.com/wolfcon/FCQRCodeScanner'
   s.author   = { 'Frank' => '472730949@qq.com' }
-  s.source   = { :git => 'https://github.com/wolfcon/FCQRCodeScanner.git', :commit => 'd0beb72345889141a39aa736daebae509d9c4f7d' }
+  s.source   = { :git => 'https://github.com/jprothwell/FCQRCodeScanner.git', :tag => s.version}
 
   s.description = 'Simple QRcode Scanner(Apple API) & Generator'
   s.platform    = :ios
